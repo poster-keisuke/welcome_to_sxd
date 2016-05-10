@@ -4,29 +4,53 @@
 .work__picture {
 	float: left;
 }
-/*.work__link {
-	text-align: center;
-}
-.work__link a :after{
-	content: "→"*/
-}
+
 .work__contents {
     padding: 5%!important;
 }
 
-p.discription__sentence {
-	text-align: center;
-	padding: 10% 10%;
-	font-size: 30px;
-}
 
 p.discription__sentence {
-    padding: 10% 10%;
-    font-size: 28px;
-    line-height: 1.28595;
+    padding: 5% 17%;
+    font-size: 22px;
+    line-height: 1.45;
     font-weight: 300;
+    text-align: center;
 }
 
 .work__contents.col-xs-6 {
 	padding: 5%;
+}
+
+.work__intro-badges {
+	padding: 5%;
+	text-align: center;
+}
+.border {
+	border-left: 1px solid #e3e3e3;
+    border-right: 1px solid #e3e3e3;
+}
+
+.intro-badges__members {
+	width: 20%;
+	display: inline-block;
+    position: relative;
+    font-size: 20px;
+    width: 12em;
+    height: 8em;
+    color: #333;
+    vertical-align: middle;
+    padding: 30px;
+}
+.intro-badges__title {
+    font-size: 40px;
+    color: #d0a8a0;
+}
+.intro-badges__title--small{
+    font-size: 25px;
+    color: #d0a8a0;
+}
+.intro-badges__subtitle {
+    font-size: 15px;
+    color: #666;
 }
