@@ -1,0 +1,32 @@
+.work {
+	padding: 2%;
+}
+.work__picture {
+	float: left;
+}
+/*.work__link {
+	text-align: center;
+}
+.work__link a :after{
+	content: "→"*/
+}
+.work__contents {
+    padding: 5%!important;
+}
+
+p.discription__sentence {
+	text-align: center;
+	padding: 10% 10%;
+	font-size: 30px;
+}
+
+p.discription__sentence {
+    padding: 10% 10%;
+    font-size: 28px;
+    line-height: 1.28595;
+    font-weight: 300;
+}
+
+.work__contents.col-xs-6 {
+	padding: 5%;
+}
