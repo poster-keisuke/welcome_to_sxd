@@ -1,31 +1,26 @@
 .informal_decision{
-text-align: center;
-font-size: 30px;
-margin: 30px 50px; 
+ text-align: center;
+ font-size: 30px;
+ margin: 30px 50px; 
 }
 
 table.sample { 
-border-collapse: separate;
-border-spacing: 50px 20px;
+ border-collapse: separate;
+ border-spacing: 50px 20px;
 }
 
-.informal_decision__company{ font-family: 'Quicksand', '游ゴシック体', 'Yu Gothic',
+.informal_decision__company{ 
+ font-family: 'Quicksand', '游ゴシック体', 'Yu Gothic',
 'YuGothic', 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo',
 'Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; 
-font-size: 14pt; 
-font-style: oblique; 
+ font-size: 14pt; 
+ font-style: oblique; 
 }
 
-.informal_decision__company--LINE{ 
-color:#00ff33;
-}
 
- .informal_decision__company--reve{ 
-color:blue;
-}
-
- .informal_decision__company--rich{ 
-color:#ffcc00;
+img.company--logo{
+ width: 100pt;
+ height: 100pt;
 }
 
 
