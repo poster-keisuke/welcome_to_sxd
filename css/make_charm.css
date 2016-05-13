@@ -1,0 +1,38 @@
+
+.charm_top_picture {
+	text-align: center;
+	margin: 20px;
+}
+
+.charm_top {
+	font-family: 'Quicksand', '游ゴシック体', 'Yu Gothic','YuGothic', 'ヒラギノ角ゴシック Pro',
+	 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo','Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; 
+	width: 700px;
+	margin:50px;
+}
+
+.charm_top_sub {
+	font-size: 25px;
+	color: #777777;
+	margin-top: 5px;
+	margin-left: 35px;
+}
+
+.charm_top_description{
+	text-align: left;
+	font-size: 20px;
+	color:#777777;
+	line-height: 1.5;
+}
+
+#bakusoku{
+	color:#000000;
+	font-size: 24px;
+}
+
+@media screen and (max-width: 480px) {
+	h1,h2 {
+		width: 600px;
+		text-align: center;
+	}
+}
