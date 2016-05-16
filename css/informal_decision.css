@@ -24,7 +24,7 @@ img.company--logo{
 }
 
 
-@media screen and (max-width: 480px) {
+@media screen and (max-width: 550px) {
 th,td {
 	font-size: 14pt;
 	width: 100%;
