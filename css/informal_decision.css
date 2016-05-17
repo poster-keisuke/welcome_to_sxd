@@ -1,32 +1,63 @@
 .informal_decision{
- text-align: center;
- font-size: 30px;
- margin: 30px 50px; 
+    text-align: center;
+    font-size: 30px;
+    margin: 30px 50px; 
 }
 
+.title{
+ 	font-weight: 100;
+ }
+
+ .sub-title{
+ 	font-weight: 100;
+ }
+
 table.sample { 
- border-collapse: separate;
- border-spacing: 50px 20px;
+    border-collapse: separate;
+    border-spacing: 50px 20px;
 }
 
 .informal_decision__company{ 
- font-family: 'Quicksand', '游ゴシック体', 'Yu Gothic',
+    border-top: 1px solid #aaa;
+    border-bottom: 1px solid #aaa;
+    font-family: 'Quicksand', '游ゴシック体', 'Yu Gothic',
 'YuGothic', 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo',
 'Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; 
- font-size: 14pt; 
- font-style: oblique; 
+    font-size: 14pt; 
+    font-style: ; 
 }
-
 
 img.company--logo{
- width: 100pt;
- height: 100pt;
+    width: 100pt;
+    height: 100pt;
 }
-
 
 @media screen and (max-width: 550px) {
-th,td {
-	font-size: 14pt;
+  th,td {
 	width: 100%;
 	display: block;
+ }
+
+ .title{
+ 	font-size: 22pt
+ }
+
+ .sub-title{
+ 	font-size: 18pt
+ }
+
+ .informal_decision__company{
+ 	margin: 0 0 30px;
+    padding: 0;
+    border-top: 1px solid #aaa;
+    font-size: 13px;
+    list-style-type: none;
+ }
+
+ img.company--logo{
+    width: 100pt;
+    height: 100pt;
+ }
+
 }
+
