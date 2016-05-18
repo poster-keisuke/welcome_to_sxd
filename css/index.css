@@ -1,17 +1,38 @@
 .work {
-	padding: 2%;
+	padding: 2% 2% 3% 2%;
 }
 .work__picture {
 	float: left;
 }
-
-.work__contents {
-    padding: 5%!important;
+.work__image {
+    width: 100%;
 }
 
+.work__contents {
+    padding: 23% 8%!important;
+    text-align: center;
+}
+
+.contents__logo {
+	font-size: 60px;
+	text-align: center;
+}
+
+.contents__link {
+    font-size: 20px;
+}
+
+.logo__mark{
+	font-size: 30px;
+	padding-left: 2%;
+}
+
+.contents__discription {
+    text-align: center;
+}
 
 p.discription__sentence {
-    padding: 5% 17%;
+    padding: 8% 16% 5%;
     font-size: 22px;
     line-height: 1.45;
     font-weight: 300;
@@ -23,7 +44,7 @@ p.discription__sentence {
 }
 
 .work__intro-badges {
-	padding: 5%;
+	padding: 3%;
 	text-align: center;
 }
 .border {
@@ -53,4 +74,37 @@ p.discription__sentence {
 .intro-badges__subtitle {
     font-size: 15px;
     color: #666;
+}
+
+
+.img {
+    width: 100%;
+}
+
+.charm {
+    padding-top: 2%;
+}
+
+.award__contents {
+    padding: 13% 10% 12% 6%;
+}
+
+.award__title {
+    font-size: 20px;
+    line-height: 1.16667;
+    font-weight: 300;
+    letter-spacing: 0em;
+    margin-bottom: 18px;
+    display: block;
+}
+
+.award__subtitle {
+    font-size: 45px;
+    margin-bottom: 23px;
+}
+
+.arard__discription {
+    font-size: 20px;
+    line-height: 1.33349;
+    letter-spacing: 0em;
 }
