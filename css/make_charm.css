@@ -1,14 +1,26 @@
+body{
+	display: inline-block;
+}
 
 .charm_top_picture {
-	text-align: center;
 	margin: 20px;
+	width: 100%;
+	text-align: center;
 }
 
 .charm_top {
 	font-family: 'Quicksand', '游ゴシック体', 'Yu Gothic','YuGothic', 'ヒラギノ角ゴシック Pro',
 	 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo','Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; 
-	width: 700px;
-	margin:50px;
+	width: 600px;
+	padding: 10%;
+	float: left;
+}
+
+.charm_top2 {
+	font-family: 'Quicksand', '游ゴシック体', 'Yu Gothic','YuGothic', 'ヒラギノ角ゴシック Pro',
+	 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo','Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; 
+	width: 600px;
+	padding: 10%;
 }
 
 .charm_top_sub {
