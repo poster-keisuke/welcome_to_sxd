@@ -86,7 +86,7 @@ p.discription__sentence {
 }
 
 .award__contents {
-    padding: 13% 10% 12% 6%;
+    padding: 13% 11% 12% 6%;
 }
 
 .award__title {
@@ -107,4 +107,67 @@ p.discription__sentence {
     font-size: 20px;
     line-height: 1.33349;
     letter-spacing: 0em;
+}
+
+
+.decision__title {
+    font-size: 18px;
+    margin-bottom: 5%;
+}
+
+.decision__contents {
+    padding: 10% 0 0 10%;
+}
+.decision__subtitle {
+    font-size: 38px;
+    margin-bottom: 45px;
+}
+.contents__discription {
+    font-size: 19px;
+    line-height: 1.33349;
+    font-weight: 300;
+    letter-spacing: 0em;
+}
+.contents__discription--left {
+    font-size: 19px;
+    line-height: 1.33349;
+    font-weight: 300;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.decision__intro-badges {
+    padding-left: 65%;
+    padding-top: 10%;
+}
+
+.border--up__down {
+    border-top: 1px solid #e3e3e3;
+    border-bottom: 1px solid #e3e3e3;
+}
+
+
+.intro-badges__members--row {
+    width: 20%;
+    display: inline-block;
+    position: relative;
+    font-size: 20px;
+    width: 12em;
+    height: 8em;
+    color: #333;
+    vertical-align: middle;
+    padding: -1px 15%;
+    text-align: center;
+}
+.intro-badges__title {
+    font-size: 40px;
+    color: #d0a8a0;
+}
+.intro-badges__title--small{
+    font-size: 25px;
+    color: #d0a8a0;
+}
+.intro-badges__subtitle--center {
+    font-size: 13px;
+    color: #666;
+    text-align: center;
 }
