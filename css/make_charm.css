@@ -1,0 +1,59 @@
+body{
+	display: inline-block;
+	width: 100%;
+}
+
+.charm_top{
+	padding-top: 100px;
+	text-align: right;
+}
+
+.charm_top2 {
+	font-family: 'Quicksand', '游ゴシック体', 'Yu Gothic','YuGothic', 'ヒラギノ角ゴシック Pro',
+	 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo','Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; 
+	width: 600px;
+	padding: 10%;
+	float: left;
+}
+
+.charm_top3 {
+	font-family: 'Quicksand', '游ゴシック体', 'Yu Gothic','YuGothic', 'ヒラギノ角ゴシック Pro',
+	 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo','Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif; 
+	width: 600px;
+	padding: 10%;
+	float: right;
+}
+
+.charm_top_sub {
+	font-size: 25px;
+	color: #777777;
+	margin-top: 5px;
+	margin-left: 35px;
+	float: left;
+}
+
+.charm_top_description{
+	text-align: left;
+	font-size: 20px;
+	color:#777777;
+	line-height: 1.5;
+	padding-top: 10px;
+	float: left;
+}
+
+#black_text{
+	color:#000000;
+	font-size: 22px;
+}
+
+ .charm_top_student{
+	padding: 50px;
+	text-align: center;
+}
+
+@media screen and (max-width: 480px) {
+	h1,h2 {
+		width: 600px;
+		text-align: center;
+	}
+}
