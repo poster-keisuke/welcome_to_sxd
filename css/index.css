@@ -9,7 +9,7 @@
 }
 
 .work__contents {
-    padding: 23% 8%!important;
+    padding: 24% 7%!important;
     text-align: center;
 }
 
@@ -20,6 +20,7 @@
 
 .contents__link {
     font-size: 20px;
+    line-height: 2.34;
 }
 
 .logo__mark{
@@ -29,12 +30,16 @@
 
 .contents__discription {
     text-align: center;
+    font-size: 32px;
+    line-height: 1.33349;
+    font-weight: 300;
+    letter-spacing: 0em;
 }
 
 p.discription__sentence {
-    padding: 8% 16% 5%;
+    padding: 5% 16% 5%;
     font-size: 22px;
-    line-height: 1.45;
+    line-height: 1.53;
     font-weight: 300;
     text-align: center;
 }
@@ -83,11 +88,11 @@ p.discription__sentence {
 }
 
 .charm {
-    padding-top: 2%;
+    padding-top: 7%;
 }
 
 .award__contents {
-    padding: 13% 11% 12% 6%;
+    padding: 10% 11% 11% 6%;
 }
 
 .award__title {
@@ -100,13 +105,14 @@ p.discription__sentence {
 }
 
 .award__subtitle {
-    font-size: 45px;
-    margin-bottom: 23px;
+    font-size: 46px;
+    margin-bottom: 30px;
+    line-height: 1.18;
 }
 
 .arard__discription {
     font-size: 20px;
-    line-height: 1.33349;
+    line-height: 1.53;
     letter-spacing: 0em;
 }
 
@@ -117,29 +123,27 @@ p.discription__sentence {
 }
 
 .decision__contents {
-    padding: 10% 0 0 10%;
+    padding: 8% 0 0 8%;
 }
 .decision__subtitle {
-    font-size: 38px;
-    margin-bottom: 45px;
-}
-.contents__discription {
-    font-size: 19px;
-    line-height: 1.33349;
-    font-weight: 300;
-    letter-spacing: 0em;
+    font-size: 36px;
+    margin-bottom: 40px;
 }
 .contents__discription--left {
     font-size: 19px;
-    line-height: 1.33349;
+    line-height: 1.53349;
     font-weight: 300;
     letter-spacing: 0em;
     text-align: left;
 }
 .decision__intro-badges {
-    padding-left: 65%;
+    padding-left: 63%;
     padding-top: 10%;
 }
+
+/*.decision__link {
+	text-align: center;
+}*/
 
 .border--up__down {
     border-top: 1px solid #e3e3e3;
@@ -171,4 +175,36 @@ p.discription__sentence {
     font-size: 13px;
     color: #666;
     text-align: center;
+}
+
+.date {
+	padding-top: 3%;
+	margin: 2% 10%;
+}
+.date__contents {
+	padding-top: 7%;
+}
+
+.date__image {
+	width: 100%;
+}
+.date__title {
+    font-size: 20px;
+    line-height: 1.16667;
+    font-weight: 300;
+    letter-spacing: 0em;
+    margin-bottom: 18px;
+    display: block;
+}
+
+.date__subtitle {
+    font-size: 36px;
+    margin-bottom: 30px;
+}
+
+.date__discription {
+    font-size: 19px;
+    line-height: 1.53349;
+    letter-spacing: 0em;
+    margin-top: 13%;
 }
