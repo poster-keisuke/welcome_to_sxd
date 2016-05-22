@@ -1,3 +1,6 @@
+.contents__all {
+    padding: 0 5%;
+}
 .work {
 	padding: 2% 2% 3% 2%;
 }
@@ -6,10 +9,11 @@
 }
 .work__image {
     width: 100%;
+    padding-bottom: 8%;
 }
 
 .work__contents {
-    padding: 24% 7%!important;
+    padding: 5% 7%!important;
     text-align: center;
 }
 
@@ -30,15 +34,15 @@
 
 .contents__discription {
     text-align: center;
-    font-size: 32px;
+    font-size: 26px;
     line-height: 1.33349;
     font-weight: 300;
     letter-spacing: 0em;
 }
 
 p.discription__sentence {
-    padding: 5% 16% 5%;
-    font-size: 22px;
+    padding: 5% 0% 5%;
+    font-size: 20px;
     line-height: 1.53;
     font-weight: 300;
     text-align: center;
@@ -63,22 +67,21 @@ p.discription__sentence {
 	display: inline-block;
     position: relative;
     font-size: 20px;
-    width: 12em;
+    width: 32%;
     height: 8em;
     color: #333;
     vertical-align: middle;
-    padding: 30px;
 }
 .intro-badges__title {
-    font-size: 40px;
+    font-size: 33px;
     color: #d0a8a0;
 }
 .intro-badges__title--small{
-    font-size: 25px;
+    font-size: 20px;
     color: #d0a8a0;
 }
 .intro-badges__subtitle {
-    font-size: 15px;
+    font-size: 13px;
     color: #666;
 }
 
@@ -87,12 +90,8 @@ p.discription__sentence {
     width: 100%;
 }
 
-.charm {
-    padding-top: 7%;
-}
-
 .award__contents {
-    padding: 10% 11% 11% 6%;
+    padding: 10% 5%;
 }
 
 .award__title {
@@ -105,7 +104,7 @@ p.discription__sentence {
 }
 
 .award__subtitle {
-    font-size: 46px;
+    font-size: 26px;
     margin-bottom: 30px;
     line-height: 1.18;
 }
@@ -126,7 +125,7 @@ p.discription__sentence {
     padding: 8% 0 0 8%;
 }
 .decision__subtitle {
-    font-size: 36px;
+    font-size: 30px;
     margin-bottom: 40px;
 }
 .contents__discription--left {
@@ -137,13 +136,12 @@ p.discription__sentence {
     text-align: left;
 }
 .decision__intro-badges {
-    padding-left: 63%;
-    padding-top: 10%;
+    padding-top: 12%;
+    text-align: center;
 }
-
-/*.decision__link {
-	text-align: center;
-}*/
+.decision__link {
+    text-align: center;
+}
 
 .border--up__down {
     border-top: 1px solid #e3e3e3;
@@ -152,24 +150,15 @@ p.discription__sentence {
 
 
 .intro-badges__members--row {
-    width: 20%;
     display: inline-block;
     position: relative;
     font-size: 20px;
-    width: 12em;
+    width: 5em;
     height: 8em;
     color: #333;
     vertical-align: middle;
     padding: -1px 15%;
     text-align: center;
-}
-.intro-badges__title {
-    font-size: 40px;
-    color: #d0a8a0;
-}
-.intro-badges__title--small{
-    font-size: 25px;
-    color: #d0a8a0;
 }
 .intro-badges__subtitle--center {
     font-size: 13px;
@@ -178,7 +167,7 @@ p.discription__sentence {
 }
 
 .date {
-	padding: 5% 10% 10% 10%;
+	padding: 5% 5% 10% 5%;
 	background: #fafafa;
 }
 .date__contents {
@@ -198,7 +187,7 @@ p.discription__sentence {
 }
 
 .date__subtitle {
-    font-size: 36px;
+    font-size: 25px;
     margin-bottom: 30px;
 }
 
@@ -206,7 +195,10 @@ p.discription__sentence {
     font-size: 19px;
     line-height: 1.53349;
     letter-spacing: 0em;
-    margin-top: 13%;
+    margin-top: 5%;
+}
+.date__link {
+    text-align: center;
 }
 .copylight {
 	text-align: center;
