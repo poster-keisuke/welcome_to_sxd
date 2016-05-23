@@ -15,48 +15,49 @@
 
 .description{
     font-size: 20px;
-    margin: 30px 50px;
+    margin: 30px 40px;
     padding: 20px 0px;
 }
 
 .teacher__SXD--q{
     font-size: 30px;
-    margin: 30px 50px;
+    margin: 30px 40px;
     color: #8990a3;
-    padding: 20px 0px; 
 }
 
 .teacher__SXD--a{
     font-size: 20px;
-    margin: 30px 50px;
+    margin: 30px 40px;
     padding: 20px 0px;  
 }
 
 .teacher__Service--q{
     font-size: 30px;
-    margin: 30px 50px; 
+    margin: 30px 40px; 
     color: #8990a3;
-    padding: 20px 0px; 
 }
 
 .teacher__Service--a{
     font-size: 20px;
-    margin: 30px 50px;
+    margin: 30px 40px;
     padding: 20px 0px;
    
 }
 
 .teacher__UX--q{
     font-size: 30px;
-    margin: 30px 50px; 
+    margin: 30px 40px; 
     color: #8990a3;
-    padding: 20px 0px; 
 }
 
 .teacher__UX--a{
     font-size: 20px;
-    margin: 30px 50px; 
+    margin: 30px 40px; 
       padding: 20px 0px;
+}
+
+.kamibayashi__picture {
+    padding-top: 3%;
 }
 
 @media screen and (max-width: 800px) {
@@ -75,13 +76,14 @@
 }
 
 .kamibayashi{
-    width: 90%;
-    height: 90%;
+    width: 100%;
+    height: auto;
 }
 
 .top_return{
     font-size: 15px;
     font-weight: 100;
+    padding-bottom: 4%;
 }
 
 }
