@@ -48,7 +48,7 @@
 .date__attention {
 	padding-top: 8%;
 	padding-bottom: 8%;
-	font-size: 21px;
+	font-size: 18px;
 }
 .date__interview  {
 	padding-top: 5%;
@@ -66,4 +66,12 @@
 }
 .sns__image {
     width: 30%;
+}
+.link {
+	text-align: center;
+	padding-top: 5%;
+}
+.link__sxd {
+	font-size: 18px;
+
 }
