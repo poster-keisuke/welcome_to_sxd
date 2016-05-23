@@ -1,0 +1,97 @@
+#page1 {
+	margin: 30px 50px;
+
+}
+
+#headerT {
+	clear: both;
+	width: 100%;
+
+	text-align: center;
+	font-size: 200%;
+}
+
+
+
+#textT {
+	float: right;
+	width: 50%;
+	color: black;
+	background: white; 
+
+}
+
+#imageTwork {
+	float: left;
+	width: 50%;
+
+}
+
+#imageT{
+	width: 100%;
+	height: 100%;
+	
+}
+
+#footerT {
+	clear: both;
+	width: 100%;
+
+	text-align: center;
+}
+
+
+#titleT{
+	color: black;
+	text-align: center;
+	font-size: 150%;
+}
+
+
+
+#page2 {
+	margin: 30px 50px;
+	
+}
+
+#headerR {
+	clear: both;
+	width: 100%;
+
+	text-align: center;
+	font-size: 200%;
+}
+
+#textR {
+	float: left;
+	width: 50%;
+	color: black;
+	background: white; 
+
+}
+
+#imageRwork {
+	float: right;
+	width: 50%;
+	color: #fff;
+}
+
+#imageR{
+	width: 100%;
+	height: 100%;
+	
+}
+
+#footerR {
+	clear: both;
+	width: 100%;
+	background: red;
+	text-align: center;
+}
+
+
+#titleR{
+	color: black;
+	text-align: center;
+	font-size: 150%;
+}
