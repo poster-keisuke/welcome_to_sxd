@@ -22,6 +22,18 @@
     top: 290%;
     color: #fff;
 }
+.date__title--interview {
+	font-size: 30px;
+	position: absolute;
+    top: 458%;
+    color: #fff;
+}
+.date__title--task {
+	font-size: 30px;
+	position: absolute;
+    top: 567%;
+    color: #fff;
+}
 .date__about {
 	font-size: 23px;
 	padding-top: 5%;
