@@ -1,3 +1,57 @@
+.date__background {
+	width: 100%;
+    position: relative;
+    opacity: 0.8;
+}
+.date__open-house {
+	padding-top: 5%;
+	text-align: center;
+}
 .date__contents {
 	margin: 0 5%;
+}
+.date__title--position {
+	font-size: 30px;
+    position: absolute;
+    top: 10%;
+    color: #fff;
+}
+.date__title--open {
+	font-size: 30px;
+	position: absolute;
+    top: 290%;
+    color: #fff;
+}
+.date__about {
+	font-size: 23px;
+	padding-top: 5%;
+}
+.date__group {
+     font-size: 22px;
+}
+.date__detail {
+	font-size: 22px;
+	margin: 8% 0 12% 0;
+}
+.date__attention {
+	padding-top: 8%;
+	padding-bottom: 8%;
+	font-size: 21px;
+}
+.date__interview  {
+	padding-top: 5%;
+	text-align: center;
+}
+.copylight {
+	text-align: center;
+	font-size: 14px;
+}
+.sns__picture--left {
+    text-align: left;
+}
+.sns__picture--right {
+    text-align: right;
+}
+.sns__image {
+    width: 30%;
 }
