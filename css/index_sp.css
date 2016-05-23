@@ -204,3 +204,12 @@ p.discription__sentence {
 	text-align: center;
 	font-size: 14px;
 }
+.sns__picture--left {
+    text-align: left;
+}
+.sns__picture--right {
+    text-align: right;
+}
+.sns__image {
+    width: 30%;
+}
