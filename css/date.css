@@ -1,3 +1,45 @@
+
+.date__contents{
+	text-align: center;
+    margin: 30px 225px; 
+    font-size: 20px;
+}
+
+.date__background {
+	width: 75%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	opacity: 0.8;
+}
+
+.date__about{
+	font-size: 30px;
+	color:#8990a3;
+}
+
+.date__detail{
+	font-size: 20px;
+    margin: 10px 50px;
+    padding: 20px 0px;  
+}
+
+.date__attention{
+	font-size: 20px;
+	padding: 20px 0px;
+}
+
+.sns__image {
+    width: 30%;
+}
+
+.copyright{
+	font-size: 10px;
+}
+
+@media screen and (max-width: 550px) {
+  
+
 .date__background {
 	width: 100%;
     position: relative;
@@ -73,5 +115,7 @@
 }
 .link__sxd {
 	font-size: 18px;
+
+}
 
 }
