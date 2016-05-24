@@ -1,0 +1,113 @@
+.date__contents{
+	text-align: center;
+    margin: 30px 225px; 
+    font-size: 20px;
+}
+
+.date__background {
+	width: 75%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	opacity: 0.8;
+}
+
+.date__about{
+	font-size: 30px;
+	color:#8990a3;
+}
+
+.date__detail{
+	font-size: 20px;
+    margin: 10px 50px;
+    padding: 20px 0px;  
+}
+
+.date__attention{
+	font-size: 20px;
+	padding: 20px 0px;
+}
+
+.copylight{
+	font-size: 10px;
+}
+
+@media screen and (max-width: 550px) {
+  
+.date__background {
+	width: 100%;
+    position: relative;
+    opacity: 0.8;
+}
+.date__open-house {
+	padding-top: 5%;
+	text-align: center;
+}
+.date__contents {
+	margin: 0 5%;
+}
+.date__title--position {
+	font-size: 30px;
+    position: absolute;
+    top: 10%;
+    color: #fff;
+}
+.date__title--open {
+	font-size: 30px;
+	position: absolute;
+    top: 290%;
+    color: #fff;
+}
+.date__title--interview {
+	font-size: 30px;
+	position: absolute;
+    top: 458%;
+    color: #fff;
+}
+.date__title--task {
+	font-size: 30px;
+	position: absolute;
+    top: 567%;
+    color: #fff;
+}
+.date__about {
+	font-size: 23px;
+	padding-top: 5%;
+}
+.date__group {
+     font-size: 22px;
+}
+.date__detail {
+	font-size: 22px;
+	margin: 8% 0 12% 0;
+}
+.date__attention {
+	padding-top: 8%;
+	padding-bottom: 8%;
+	font-size: 18px;
+}
+.date__interview  {
+	padding-top: 5%;
+	text-align: center;
+}
+.copylight {
+	text-align: center;
+	font-size: 14px;
+}
+.sns__picture--left {
+    text-align: left;
+}
+.sns__picture--right {
+    text-align: right;
+}
+.sns__image {
+    width: 30%;
+}
+.link {
+	text-align: center;
+	padding-top: 5%;
+}
+.link__sxd {
+	font-size: 18px;
+
+}
