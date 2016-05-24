@@ -1,3 +1,4 @@
+
 .date__contents{
 	text-align: center;
     margin: 30px 225px; 
@@ -38,6 +39,7 @@
 
 @media screen and (max-width: 550px) {
   
+
 .date__background {
 	width: 100%;
     position: relative;
@@ -113,5 +115,7 @@
 }
 .link__sxd {
 	font-size: 18px;
+
+}
 
 }
