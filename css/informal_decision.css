@@ -1,10 +1,6 @@
-@font-face {
-   font-family: JK Gothic L;
-   src: url('font/JK Gothic L.ttf') format("truetype");
-}
 
 .informal_decision{
-    font-family: 'JK Gothic L','stealthgothica','JK Gothic M' , 'Quicksand', '游ゴシック体', 'Yu Gothic',
+    font-family:  'Quicksand', '游ゴシック体', 'Yu Gothic',
 'YuGothic', 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo',
 'Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
     text-align: center;
