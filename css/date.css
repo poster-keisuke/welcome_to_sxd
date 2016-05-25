@@ -1,46 +1,4 @@
-
-.date__contents{
-	text-align: center;
-    margin: 30px 225px; 
-    font-size: 20px;
-}
-
-.date__background {
-	width: 75%;
-	display: block;
-    margin-left: auto;
-    margin-right: auto;
-	opacity: 0.8;
-}
-
-.date__about{
-	font-size: 30px;
-	color:#8990a3;
-}
-
-.date__detail{
-	font-size: 20px;
-    margin: 10px 50px;
-    padding: 20px 0px;  
-}
-
-.date__attention{
-	font-size: 20px;
-	padding: 20px 0px;
-}
-
-.sns__image {
-    width: 30%;
-}
-
-.copyright{
-	font-size: 10px;
-}
-
-@media screen and (max-width: 550px) {
-  
-
-.date__background {
+.date__image {
 	width: 100%;
     position: relative;
     opacity: 0.8;
@@ -61,23 +19,23 @@
 .date__title--open {
 	font-size: 30px;
 	position: absolute;
-    top: 290%;
+    top: 298%;
     color: #fff;
 }
 .date__title--interview {
 	font-size: 30px;
 	position: absolute;
-    top: 458%;
+    top: 463%;
     color: #fff;
 }
 .date__title--task {
 	font-size: 30px;
 	position: absolute;
-    top: 567%;
+    top: 572%;
     color: #fff;
 }
 .date__about {
-	font-size: 23px;
+	font-size: 22px;
 	padding-top: 5%;
 }
 .date__group {
@@ -96,10 +54,6 @@
 	padding-top: 5%;
 	text-align: center;
 }
-.copylight {
-	text-align: center;
-	font-size: 14px;
-}
 .sns__picture--left {
     text-align: left;
 }
@@ -115,7 +69,96 @@
 }
 .link__sxd {
 	font-size: 18px;
-
+}
+.copyright {
+	text-align: center;
+	font-size: 14px;
 }
 
+/* ############## iPad(768)以上 #################### */
+@media screen and (max-width: 768px) {
+
+  .date__title--position {
+    font-size: 40px;
+    top: 23%;
+  }
+  .date__background {
+	width: 100%;
+    position: relative;
+    opacity: 0.8;
+  }
+  .date__contents{
+    text-align: center;
+    padding: 5% 5%;
+    font-size: 20px;
+  }
+  .date__about {
+    font-size: 32px;
+    padding-top: 5%;
+  }
+  .date__detail {
+    font-size: 30px;
+    margin: 8% 0 12% 0;
+  }
+  .date__group {
+    font-size: 30px;
+  }
+  .date__attention {
+    font-size: 27px;
+  }
+  .date__title--open {
+    font-size: 40px;
+    top: 295%;
+  }
+  .date__title--interview {
+    font-size: 40px;
+    top: 472%;
+  }
+  .date__title--task {
+    font-size: 40px;
+    top: 586%;
+  }
+}
+
+/*デスクトップ992以上*/
+@media screen and (min-width: 992px) {
+  .date__title--position {
+    font-size: 40px;
+    top: 44%;
+  }
+  .date__background {
+	width: 100%;
+    position: relative;
+    opacity: 0.8;
+  }
+  .date__contents{
+    padding: 2% 15%;
+    font-size: 20px;
+  }
+  .date__about {
+    font-size: 32px;
+    padding-top: 5%;
+  }
+  .date__detail {
+    font-size: 30px;
+    margin: 8% 0 12% 0;
+  }
+  .date__group {
+    font-size: 30px;
+  }
+  .date__attention {
+    font-size: 27px;
+  }
+  .date__title--open {
+    font-size: 40px;
+    top: 668%;
+  }
+  .date__title--interview {
+    font-size: 40px;
+    top: 1082%;
+  }
+  .date__title--task {
+    font-size: 40px;
+    top: 1349%;
+  }
 }

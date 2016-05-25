@@ -178,7 +178,7 @@ p.discription__sentence {
 }
 
 .date {
-	padding: 5% 10% 10% 10%;
+	padding: 5% 10% 30% 10%;
 	background: #fafafa;
 }
 .date__contents {
@@ -208,7 +208,22 @@ p.discription__sentence {
     letter-spacing: 0em;
     margin-top: 13%;
 }
+.date__link {
+    text-align: center;
+}
 .copylight {
 	text-align: center;
 	font-size: 14px;
+}
+.sns__all {
+    padding-top: 2%;
+}
+.sns__picture--left {
+    text-align: left;
+}
+.sns__picture--right {
+    text-align: right;
+}
+.sns__image {
+    width: 10%;
 }
