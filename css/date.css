@@ -76,7 +76,7 @@
 }
 
 /* ############## iPad(768)以上 #################### */
-@media screen and (max-width: 768px) {
+@media screen and (min-width: 600px) and (max-width: 768px) {
 
   .date__title--position {
     font-size: 40px;
