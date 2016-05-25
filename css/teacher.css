@@ -3,7 +3,7 @@
 'YuGothic', 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo',
 'Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
     text-align: center;
-    margin: 30px 150px; 
+    margin: 30px 150px;
     font-size: 20px;
 }
 
@@ -28,12 +28,12 @@
 .teacher__SXD--a{
     font-size: 20px;
     margin: 30px 40px;
-    padding: 20px 0px;  
+    padding: 20px 0px;
 }
 
 .teacher__Service--q{
     font-size: 30px;
-    margin: 30px 40px; 
+    margin: 30px 40px;
     color: #8990a3;
 }
 
@@ -41,18 +41,17 @@
     font-size: 20px;
     margin: 30px 40px;
     padding: 20px 0px;
-   
 }
 
 .teacher__UX--q{
     font-size: 30px;
-    margin: 30px 40px; 
+    margin: 30px 40px;
     color: #8990a3;
 }
 
 .teacher__UX--a{
     font-size: 20px;
-    margin: 30px 40px; 
+    margin: 30px 40px;
       padding: 20px 0px;
 }
 
@@ -61,7 +60,6 @@
 }
 
 @media screen and (max-width: 800px) {
-  
 
 .teacher{
     text-align: center;
