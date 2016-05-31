@@ -1,0 +1,114 @@
+#page1 {
+	margin: 30px 50px;
+	font-size: 15px;
+	font-family: 'JK Gothic L','stealthgothica','JK Gothic M' , 'Quicksand', '游ゴシック体', 'Yu Gothic',
+'YuGothic', 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo',
+'Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+}
+
+#headerT {
+	clear: both;
+	width: 100%;
+	text-align: center;
+	font-size: 200%;
+	margin-bottom: 15px;
+}
+
+
+
+#textT {
+	float: right;
+	width: 48%;
+	color: black;
+	background: white; 
+	margin-bottom: 30px;
+
+}
+
+#imageTwork {
+	float: left;
+	width: 50%;
+
+}
+
+#imageT{
+	width: 100%;
+	height: 100%;
+}
+
+#footerT {
+	clear: both;
+	width: 100%;
+
+	text-align: center;
+}
+
+
+#titleT{
+	color: black;
+	text-align: center;
+	font-size: 150%;
+	margin-bottom: 15px;
+}
+
+
+
+#page2 {
+	margin: 30px 50px;
+	font-size: 15px;
+	font-family: 'JK Gothic L','stealthgothica','JK Gothic M' , 'Quicksand', '游ゴシック体', 'Yu Gothic',
+'YuGothic', 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo',
+'Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+}
+
+#headerR {
+	clear: both;
+	width: 100%;
+	text-align: center;
+	font-size: 200%;
+	margin-bottom: 15px;
+
+}
+
+#textR {
+	float: left;
+	width: 48%;
+	color: black;
+	background: white; 
+	margin-bottom: 30px;
+}
+
+#imageRwork {
+	float: right;
+	width: 50%;
+	color: #fff;
+}
+
+#imageR{
+	width: 100%;
+	height: 100%;
+	
+}
+
+#footerR {
+	clear: both;
+	width: 100%;
+	background: red;
+	text-align: center;
+}
+
+
+#titleR{
+	color: black;
+	text-align: center;
+	font-size: 150%;
+	margin-bottom: 15px;
+}
+
+#h1{
+	text-align: center;
+	font-size: 150%;
+	font-family: 'JK Gothic L','stealthgothica','JK Gothic M' , 'Quicksand', '游ゴシック体', 'Yu Gothic',
+'YuGothic', 'ヒラギノ角ゴシック Pro', 'Hiragino Kaku Gothic Pro', 'メイリオ', 'Meiryo',
+'Osaka', 'ＭＳ Ｐゴシック', 'MS PGothic', sans-serif;
+}
